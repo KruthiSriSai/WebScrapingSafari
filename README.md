@@ -25,6 +25,7 @@ cd web-scraper
 pip install requests beautifulsoup4
 ### 3. Run the Script
 python scraper.py
+
 After running, a trending.csv file will be created with the following columns:
 Repository Name, Link
 
