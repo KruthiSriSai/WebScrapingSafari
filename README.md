@@ -1,4 +1,3 @@
-# WebScrapingSafari
 # Web Scraping Safari – GitHub Trending Repositories
 
 This Python script scrapes the top 5 trending repositories from [GitHub Trending](https://github.com/trending) using the `requests` and `BeautifulSoup` libraries. It extracts each repository’s name and link, and saves them into a CSV file.
@@ -20,12 +19,13 @@ This Python script scrapes the top 5 trending repositories from [GitHub Trending
 ## 🚀 How to Run
 
 ### 1. Clone the Repository
-git clone https://github.com/yourusername/web-scraper.git
+git clone https://github.com/KruthiSriSai/webScraper.git
 cd web-scraper
 ### 2. Install required Libraries
 pip install requests beautifulsoup4
 ### 3. Run the Script
 python scraper.py
+
 After running, a trending.csv file will be created with the following columns:
 Repository Name, Link
 
