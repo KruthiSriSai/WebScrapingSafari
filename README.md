@@ -19,13 +19,12 @@ This Python script scrapes the top 5 trending repositories from [GitHub Trending
 ## 🚀 How to Run
 
 ### 1. Clone the Repository
-git clone https://github.com/KruthiSriSai/webScraper.git
+git clone https://github.com/KruthiSriSai/WebScrapingSafari.git
 cd web-scraper
 ### 2. Install required Libraries
 pip install requests beautifulsoup4
 ### 3. Run the Script
 python scraper.py
-
 After running, a trending.csv file will be created with the following columns:
 Repository Name, Link
 
