@@ -16,7 +16,7 @@ This Python script scrapes the top 5 trending repositories from [GitHub Trending
 - `beautifulsoup4` – for parsing HTML
 - `csv` – for writing data to CSV file
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Clone the Repository
 git clone https://github.com/KruthiSriSai/WebScrapingSafari.git
